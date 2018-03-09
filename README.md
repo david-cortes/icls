@@ -1,4 +1,4 @@
-# icls
+# Implicitly Constrained Least Squares
 
 Python implementation of the algorithm for semi-supervised learning (fitting a model when there is both labeled and unlabeled data) described in _Implicitly constrained semi-supervised least squares classification (Krijthe and Loog, 2015)_.
 
